@@ -1,0 +1,4 @@
+Testando comandos pelo terminal.
+
+nano (nome_do_arquivo): edita arquivo
+touch (nome.tipo_do_arquivo)
