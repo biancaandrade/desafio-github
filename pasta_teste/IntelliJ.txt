@@ -1,3 +1,5 @@
+
+
 Iniciar um novo projeto (new project)
 Abrir um projeto pré-existente (open) (importar)
 Pegar o projeto de um versionamento (get from VCS): essa opção permite pegar um projeto que exista no seu gitHUB através do link e trazê-lo para edição no IntelliJ (criar um clone)
@@ -20,3 +22,13 @@ Com crtl+shift+F10, o programa está pronto para ser executado. Após a primeira
 Com ctrl+shift+/, todo o bloco selecionado é comentado. Com ctrl+/, todas as linhas são comentadas.
 
 Com alt+enter, classes são importadas. Com ctrl+alt+O, classes importadas são removidas. Com ctrl+Y, uma linha é deletada.
+
+Com Shift+f12, o menu é fechado. Com shift+f6, você pode editar o nome do seu projeto. Com ctrl+alt+L, todo o código é organizado automaticamente. 
+
+Com Ctrl+D, as linhas podem ser duplicadas.
+
+Com ctrl+shift+seta_pra_cima, você move livremente as linhas.
+
+Por último, acessando a aba "VCS" e, em seguida, "enable version control..", depois git, é possível adicionar o programa a um repositório.
+
+Para comitar, basta clicar em VCS novamente ou utilizar o atalho ctrl+k. obs: parei no minuto 5 da segunda aula. 
