@@ -1,4 +1,4 @@
-
+TESTE
 
 Iniciar um novo projeto (new project)
 Abrir um projeto pré-existente (open) (importar)
